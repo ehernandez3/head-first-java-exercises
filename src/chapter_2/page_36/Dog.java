@@ -1,6 +1,6 @@
 package chapter_2.page_36;
 
-public class Dog {
+class Dog {
 	int size;
 	String breed;
 	String name;
