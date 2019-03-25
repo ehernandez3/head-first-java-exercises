@@ -1,6 +1,6 @@
 package chapter_5.simple_dot_com;
 
-public class simpleDotComTestDrive {
+public class SimpleDotComTestDrive {
 
 //  METHOD String checkYourself(String userGuess)
 //      GET the user guess as a String parameter
@@ -40,6 +40,5 @@ public class simpleDotComTestDrive {
         }
 
         System.out.println(testResult);
-
     }
 }
