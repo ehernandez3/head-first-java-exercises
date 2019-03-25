@@ -2,10 +2,10 @@ package chapter_5.simple_dot_com;
 
 public class SimpleDotCom {
 
-    private int [] locationCells;
+    private int[] locationCells;
     private int numOfHits = 0;
 
-    public void setLocationCells (int [] locs) {
+    public void setLocationCells (int[] locs) {
         locationCells = locs;
     }
 
